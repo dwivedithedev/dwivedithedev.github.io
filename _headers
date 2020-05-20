@@ -41,6 +41,15 @@
   Link: </component---src-templates-blog-post-js-201daa337fdd3eb22f0c.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/my-journey/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/data-data-and-more-data
+  Link: </webpack-runtime-48adf2f53c63daccb092.js>; rel=preload; as=script
+  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7fa90b8577db4ff4f5b2.js>; rel=preload; as=script
+  Link: </commons-d35a2280c888609a5006.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-201daa337fdd3eb22f0c.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/data-data-and-more-data/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/psychology-in-typography
   Link: </webpack-runtime-48adf2f53c63daccb092.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
