@@ -86,6 +86,15 @@
   Link: </component---src-templates-blog-post-js-2b695523d6a05e1a9307.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/the-power-of-not-knowing/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/reddit-criticism-psych-community-progress
+  Link: </webpack-runtime-e6872e21f828ddaafbcd.js>; rel=preload; as=script
+  Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
+  Link: </framework-03e102d3023d4b15f632.js>; rel=preload; as=script
+  Link: </app-7fa90b8577db4ff4f5b2.js>; rel=preload; as=script
+  Link: </commons-b15fa1a6922f428a6c03.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-2b695523d6a05e1a9307.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/reddit-criticism-psych-community-progress/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
   Link: </webpack-runtime-e6872e21f828ddaafbcd.js>; rel=preload; as=script
   Link: </styles-befd5c688c712b9481d4.js>; rel=preload; as=script
