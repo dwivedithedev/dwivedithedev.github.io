@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.thevediwho.me/sitemap/sitemap-index.xml
+Sitemap: https://www.thevediwho.me/sitemap.xml
 Host: https://www.thevediwho.me
